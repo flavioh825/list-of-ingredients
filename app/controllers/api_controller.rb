@@ -1,0 +1,1 @@
+class ApiControoler < ApplicationController::API
